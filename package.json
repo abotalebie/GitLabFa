@@ -1,0 +1,20 @@
+{
+  "name": "gitlabfa",
+  "version": "1.0.3",
+  "description": "Persian version of GitLab",
+  "main": "dist/gitlabfa",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["gitlab", "persian", "farsi"],
+  "author": "Mostafa Aboutalebi <m.abotalebie@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abotalebie/GitLabFa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abotalebie/GitLabFa/issues"
+  },
+  "homepage": "https://github.com/abotalebie/GitLabFa#readme"
+}

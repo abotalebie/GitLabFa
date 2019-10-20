@@ -1,0 +1,41 @@
+.issues-holder {
+	direction: rtl;
+	font-family:IRANSans, tahoma, serif;
+	text-align: right;
+}
+
+.notes>li .note-body .note-text li {
+	margin-left: 0;
+	margin-right: 28px;
+}
+
+.projects-list {
+	direction: rtl;
+	font-family:IRANSans, tahoma, serif;
+	text-align: right;
+}
+
+.projects-list .append-right-4 {
+	margin-left: 4px;
+	margin-right: 0;
+}
+
+.projects-list .controls .icon-wrapper {
+	color: inherit;
+	margin-left: 16px;
+	margin-right: 0;
+}
+
+div.issue-details {
+	font-family:IRANSans, tahoma, serif;
+	text-align: right;
+}
+
+ul.controls>li {
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+#note-body{
+	direction: rtl;
+}
